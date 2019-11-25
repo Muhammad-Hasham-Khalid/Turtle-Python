@@ -1,1 +1,1 @@
-#### Working With Turtle Graphics in Python :star:
+#### Working With Turtle Graphics in Python :turtle:
